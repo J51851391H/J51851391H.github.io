@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Notes On Korean</title>
+    <link>https://J51851391H.github.io/posts/</link>
+    <description>Recent content in Posts on Notes On Korean</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 11 Nov 2022 09:24:30 -0600</lastBuildDate><atom:link href="https://J51851391H.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First_post</title>
+      <link>https://J51851391H.github.io/posts/first_post/</link>
+      <pubDate>Fri, 11 Nov 2022 09:24:30 -0600</pubDate>
+      
+      <guid>https://J51851391H.github.io/posts/first_post/</guid>
+      <description>Hello World!</description>
+    </item>
+    
+  </channel>
+</rss>
