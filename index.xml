@@ -1,92 +1,55 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>Notes On Korean</title>
-    <link>https://J51851391H.github.io/</link>
-    <description>Recent content on Notes On Korean</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://J51851391H.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>물고기 vs. 생선</title>
-      <link>https://J51851391H.github.io/posts/saying_fish_in_korean/</link>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://J51851391H.github.io/posts/saying_fish_in_korean/</guid>
-      <description>물고기 = fish (living fish)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Notes On Korean</title>
+        <link>https://J51851391H.github.io/</link>
+        <description>This is my cool site</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 &#43;0000</lastBuildDate>
+            <atom:link href="https://J51851391H.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>물고기 vs. 생선</title>
+    <link>https://J51851391H.github.io/posts/saying_fish_in_korean/</link>
+    <pubDate>Fri, 18 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://J51851391H.github.io/posts/saying_fish_in_korean/</guid>
+    <description><![CDATA[물고기 = fish (living fish)
 생선 = fish (to eat)
 해산물 = seafood
-Both 물고기 and 생선 have the literally meaning of fish but they&amp;rsquo;re used in different contexts.</description>
-    </item>
-    
-    <item>
-      <title>Feeling Stuck</title>
-      <link>https://J51851391H.github.io/posts/feeling_stuck/</link>
-      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://J51851391H.github.io/posts/feeling_stuck/</guid>
-      <description>I stepped away from learning korean for the last 6 to 8 weeks. Life got busy, so I stopped doing my daily flashcards and meeting with my online tutor.</description>
-    </item>
-    
-    <item>
-      <title>Question Words?</title>
-      <link>https://J51851391H.github.io/posts/question_words/</link>
-      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://J51851391H.github.io/posts/question_words/</guid>
-      <description>Yesterday I couldn&amp;rsquo;t remember the word 언제 (when) for some reason, so I thought I review several question words today.
+Both 물고기 and 생선 have the literally meaning of fish but they&rsquo;re used in different contexts.]]></description>
+</item>
+<item>
+    <title>Feeling Stuck</title>
+    <link>https://J51851391H.github.io/posts/feeling_stuck/</link>
+    <pubDate>Wed, 16 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://J51851391H.github.io/posts/feeling_stuck/</guid>
+    <description><![CDATA[I stepped away from learning korean for the last 6 to 8 weeks. Life got busy, so I stopped doing my daily flashcards and meeting with my online tutor.]]></description>
+</item>
+<item>
+    <title>Question Words?</title>
+    <link>https://J51851391H.github.io/posts/question_words/</link>
+    <pubDate>Sat, 12 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://J51851391H.github.io/posts/question_words/</guid>
+    <description><![CDATA[Yesterday I couldn&rsquo;t remember the word 언제 (when) for some reason, so I thought I review several question words today.
 누구 = who
-뭐 = what</description>
-    </item>
-    
-    <item>
-      <title>미용실 갔어요.</title>
-      <link>https://J51851391H.github.io/posts/korean_haircut/</link>
-      <pubDate>Sat, 12 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://J51851391H.github.io/posts/korean_haircut/</guid>
-      <description>I went to a Korean hair salon today to get a haircut and (attempt to) practice my korean. It went&amp;hellip;okay. Turns out chitchatting with a stranger in Korean for 20+ minutes is really difficult.</description>
-    </item>
-    
-    <item>
-      <title>안영 하세요!</title>
-      <link>https://J51851391H.github.io/posts/first_post/</link>
-      <pubDate>Fri, 11 Nov 2022 09:24:30 -0600</pubDate>
-      
-      <guid>https://J51851391H.github.io/posts/first_post/</guid>
-      <description>I just finished Share Your Work by Austin Kleon. It&amp;rsquo;s a great (short) book that recommends learning out loud online.
-Here&amp;rsquo;s my favorite tidbits from the book:</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>https://J51851391H.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://J51851391H.github.io/about/</guid>
-      <description>Hi! I&amp;rsquo;m Jerry. I&amp;rsquo;m a husband and dad living in Chicago.
-My wife was born and raised in Korea and my two kids are both fluent Korean speakers.</description>
-    </item>
-    
-    <item>
-      <title>Stuff</title>
-      <link>https://J51851391H.github.io/stuff/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://J51851391H.github.io/stuff/</guid>
-      <description>Learn to Type in Korean:
-TaDak TaDak: Great web app to learn the basics.
-Fast Fingers (Korean Version): Fun web app to practice getting faster. The english version is pretty fun too.</description>
-    </item>
-    
-    <item>
-      <title>tags</title>
-      <link>https://J51851391H.github.io/tags/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://J51851391H.github.io/tags/</guid>
-      <description></description>
-    </item>
-    
-  </channel>
+뭐 = what]]></description>
+</item>
+<item>
+    <title>미용실 갔어요.</title>
+    <link>https://J51851391H.github.io/posts/korean_haircut/</link>
+    <pubDate>Sat, 12 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://J51851391H.github.io/posts/korean_haircut/</guid>
+    <description><![CDATA[I went to a Korean hair salon today to get a haircut and (attempt to) practice my korean. It went&hellip;okay. Turns out chitchatting with a stranger in Korean for 20+ minutes is really difficult.]]></description>
+</item>
+<item>
+    <title>안영 하세요!</title>
+    <link>https://J51851391H.github.io/posts/first_post/</link>
+    <pubDate>Fri, 11 Nov 2022 09:24:30 -0600</pubDate>
+    <author>Author</author>
+    <guid>https://J51851391H.github.io/posts/first_post/</guid>
+    <description><![CDATA[I just finished Share Your Work by Austin Kleon. It&rsquo;s a great (short) book that recommends learning out loud online.
+Here&rsquo;s my favorite tidbits from the book:]]></description>
+</item>
+</channel>
 </rss>

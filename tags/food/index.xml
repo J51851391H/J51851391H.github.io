@@ -1,23 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-  <channel>
-    <title>food on Notes On Korean</title>
-    <link>https://J51851391H.github.io/tags/food/</link>
-    <description>Recent content in food on Notes On Korean</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://J51851391H.github.io/tags/food/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>물고기 vs. 생선</title>
-      <link>https://J51851391H.github.io/posts/saying_fish_in_korean/</link>
-      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://J51851391H.github.io/posts/saying_fish_in_korean/</guid>
-      <description>물고기 = fish (living fish)
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>food - Tag - Notes On Korean</title>
+        <link>https://J51851391H.github.io/tags/food/</link>
+        <description>food - Tag - Notes On Korean</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://J51851391H.github.io/tags/food/" rel="self" type="application/rss+xml" /><item>
+    <title>물고기 vs. 생선</title>
+    <link>https://J51851391H.github.io/posts/saying_fish_in_korean/</link>
+    <pubDate>Fri, 18 Nov 2022 00:00:00 &#43;0000</pubDate>
+    <author>Author</author>
+    <guid>https://J51851391H.github.io/posts/saying_fish_in_korean/</guid>
+    <description><![CDATA[물고기 = fish (living fish)
 생선 = fish (to eat)
 해산물 = seafood
-Both 물고기 and 생선 have the literally meaning of fish but they&amp;rsquo;re used in different contexts.</description>
-    </item>
-    
-  </channel>
+Both 물고기 and 생선 have the literally meaning of fish but they&rsquo;re used in different contexts.]]></description>
+</item>
+</channel>
 </rss>
