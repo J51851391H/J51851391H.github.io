@@ -3,7 +3,98 @@
         <title>All Posts - Notes On Korean</title>
         <link>https://J51851391H.github.io/posts/</link>
         <description>All Posts | Notes On Korean</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://J51851391H.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Fri, 09 Dec 2022 21:13:37 -0600</lastBuildDate><atom:link href="https://J51851391H.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Food</title>
+    <link>https://J51851391H.github.io/posts/food/</link>
+    <pubDate>Fri, 09 Dec 2022 21:13:37 -0600</pubDate>
+    <author>false</author>
+    <guid>https://J51851391H.github.io/posts/food/</guid>
+    <description><![CDATA[Food (음식) 물 = water
+밥 = rice
+야채 = vegetables
+과일 = fruit
+고기 = meat
+빵 = bread
+해산물 = seafood
+생선 = fish
+두부 = Tofu
+계란 = Eggs
+치즈 = Cheese
+반찬 = Side dishes
+Meals 아침 식사 = Breakfast
+점심 식사 = Lunch
+간식 = Snack
+저녁 식사 = Dinner
+후식 = Dessert
+Utencils 포크 = Fork
+칼 = Knife
+숟가락 = Spoon
+젓가락 = Chopsticks]]></description>
+</item>
+<item>
+    <title>People</title>
+    <link>https://J51851391H.github.io/posts/people/</link>
+    <pubDate>Fri, 09 Dec 2022 09:19:11 -0600</pubDate>
+    <author>false</author>
+    <guid>https://J51851391H.github.io/posts/people/</guid>
+    <description><![CDATA[어른 =adult
+아가 = baby
+아이들 = children
+남자 = man
+여자 = woman	소년 = boy
+소녀 = girl
+가족 = family
+부모님 = parents
+엄마 = mother
+아버지 = father
+딸 = daughter
+아들 = son
+언니 = older sister (of a girl)
+누나 = older sister	(of a boy)
+오빠 = brother (of a girl)
+형 = older brother (of a boy)
+동생 = younger sibling
+남동생 = younger brother]]></description>
+</item>
+<item>
+    <title>Conjunctions</title>
+    <link>https://J51851391H.github.io/posts/conjunctions/</link>
+    <pubDate>Thu, 08 Dec 2022 19:40:58 -0600</pubDate>
+    <author>false</author>
+    <guid>https://J51851391H.github.io/posts/conjunctions/</guid>
+    <description><![CDATA[Conjunctions connect two sentences together. Here are the most common conjunctions in Korean:
+그래서 = so, therefore 그리고 = and 하지만 = but, however 그련데 = but, however, by the way 그래도 = but, still ]]></description>
+</item>
+<item>
+    <title>Places</title>
+    <link>https://J51851391H.github.io/posts/places/</link>
+    <pubDate>Wed, 07 Dec 2022 20:17:14 -0600</pubDate>
+    <author>false</author>
+    <guid>https://J51851391H.github.io/posts/places/</guid>
+    <description><![CDATA[집 = home
+화장실 = bathroom
+침실 = bedroom
+거실 = living room
+부엌 = kitchen
+사무실 = office
+차고 = garage
+밖의 = outside
+공원 = park
+은행 = bank
+편의점 = convenience store
+커피숍 = coffee shop
+식당 = restaurant
+서점 = bookstore
+미용실 = hair salon
+병원 = hospital
+시장 = market
+영화관 = movie theater
+약국 = pharmacy
+슈퍼마켓 = supermarket
+빵집 = bakery*
+백화점 = department store]]></description>
+</item>
+<item>
     <title>하다</title>
     <link>https://J51851391H.github.io/posts/hada/</link>
     <pubDate>Wed, 07 Dec 2022 00:00:00 &#43;0000</pubDate>
@@ -18,11 +109,11 @@
 하겠어요 = going to do it
 할 수있어요= can do
 할 수 없어요 = cannot do
+해야 해요 = have to do
 합시다! = let&rsquo;s do it
 하세요 = do it, please
 해 주세요 = please do
-Negative Sentences 안 해요 = don&rsquo;t do
-못 해요 = can&rsquo;t do.]]></description>
+Negative Sentences 안 해요 = don&rsquo;t do]]></description>
 </item>
 <item>
     <title>Study Plan</title>
@@ -30,9 +121,7 @@ Negative Sentences 안 해요 = don&rsquo;t do
     <pubDate>Fri, 02 Dec 2022 11:48:14 -0600</pubDate>
     <author>false</author>
     <guid>https://J51851391H.github.io/posts/study_plan/</guid>
-    <description><![CDATA[Start by building a foundation of:
-10 to 20 useful phrases that can be used daily; 400 to 500 most frequent nouns, verbs, and adverbs; question words; and 2 or 3 sentence strucutures. Follow a few simple maxims:
-Consistency is paramount. Each day: (1) 30 minutes of focused study; and (2) language exposure. Learn only what you can use now. Avoid specialized/sophisticated words. Everyday read, write, and speak. Create simple routines to make studying easy.]]></description>
+    <description><![CDATA[Maxims: Consistency is paramount. 30 minutes of focused study everyday including reading, writing, listening, and speaking. Learn only what you can use now. Avoid specialized/sophisticated words. Create simple routines to make studying easy. Start by building a foundation of: 10 to 20 useful phrases that can be used daily. 400 to 500 most frequent nouns, verbs, adjectives, and adverbs. Question words. 2 or 3 sentence strucutures. Plan: Use paper flashcards. Apps and websites just lead to distraction.]]></description>
 </item>
 <item>
     <title>하세요 vs. 해 주세요</title>
@@ -87,28 +176,6 @@ Both 물고기 and 생선 have the literally meaning of fish but they&rsquo;re u
 몇 = how many
 And some sentences for 언제:
 언제 했어요? (When did you do it?) 언제 왔어요? (When did you come?) 언제 일어나요? (When did you get up?]]></description>
-</item>
-<item>
-    <title>미용실 갔어요.</title>
-    <link>https://J51851391H.github.io/posts/korean_haircut/</link>
-    <pubDate>Sat, 12 Nov 2022 00:00:00 &#43;0000</pubDate>
-    <author>false</author>
-    <guid>https://J51851391H.github.io/posts/korean_haircut/</guid>
-    <description><![CDATA[I went to a Korean hair salon today to get a haircut and (attempt to) practice my korean. It went&hellip;okay. Turns out chitchatting with a stranger in Korean for 20+ minutes is really difficult. I go back in 4 weeks and I&rsquo;m determined to do better next time.
-Here&rsquo;s a few words and phrases I hope to use next time. I&rsquo;ll add more in the next few days.
-Basics:
-미용실 = beauty salon 머리카락 = hair on your head 가위 = scissors 샴푸 = shampoo 린스 = hair conditioner Entering the Salon:]]></description>
-</item>
-<item>
-    <title>안영 하세요!</title>
-    <link>https://J51851391H.github.io/posts/first_post/</link>
-    <pubDate>Fri, 11 Nov 2022 09:24:30 -0600</pubDate>
-    <author>false</author>
-    <guid>https://J51851391H.github.io/posts/first_post/</guid>
-    <description><![CDATA[I just finished Share Your Work by Austin Kleon. It&rsquo;s a great (short) book that recommends learning out loud online.
-Here&rsquo;s my favorite tidbits from the book:
-Get obsessed with something and spend a ton of time thinking out loud about it.
-&ldquo;The best way to get started on a path&hellip;is to think about what you want to learn, and make a commitment to learning it in front of others.&rdquo;]]></description>
 </item>
 </channel>
 </rss>
