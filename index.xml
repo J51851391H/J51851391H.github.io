@@ -3,9 +3,24 @@
         <title>Notes On Korean</title>
         <link>https://J51851391H.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 08:53:56 -0600</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 12:14:46 -0600</lastBuildDate>
             <atom:link href="https://J51851391H.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
+    <title>Weekly_reading</title>
+    <link>https://J51851391H.github.io/posts/weekly_reading/</link>
+    <pubDate>Mon, 12 Dec 2022 12:14:46 -0600</pubDate>
+    <author>false</author>
+    <guid>https://J51851391H.github.io/posts/weekly_reading/</guid>
+    <description><![CDATA[저는 오늘 책 하고 컴퓨터 샀어요.
+린스 필요해요, 하지만 가게에 없어요.
+지난 토요일에, 저는 미용실에 갔어요.
+한국 식당에 하는거 좋아해요.
+우리는 새소파 필요해요.
+저는 열쇠랑 학교에 갔어요. 그리고 의자에 앉았어요.
+편의점에서 비누를 사고 싶어요.
+편의점에서 비누를 사고 싶어요. 하지만, 돈을 하나도 없어요. 그래서, 나는 은행 갈거에요.]]></description>
+</item>
+<item>
     <title>Common_verbs</title>
     <link>https://J51851391H.github.io/posts/common_verbs/</link>
     <pubDate>Mon, 12 Dec 2022 08:53:56 -0600</pubDate>
@@ -247,31 +262,6 @@ Utencils 포크 = Fork
 칼 = Knife
 숟가락 = Spoon
 젓가락 = Chopsticks]]></description>
-</item>
-<item>
-    <title>People</title>
-    <link>https://J51851391H.github.io/posts/people/</link>
-    <pubDate>Fri, 09 Dec 2022 09:19:11 -0600</pubDate>
-    <author>false</author>
-    <guid>https://J51851391H.github.io/posts/people/</guid>
-    <description><![CDATA[어른 =adult
-아가 = baby
-아이들 = children
-남자 = man
-여자 = woman	소년 = boy
-소녀 = girl
-가족 = family
-부모님 = parents
-엄마 = mother
-아버지 = father
-딸 = daughter
-아들 = son
-언니 = older sister (of a girl)
-누나 = older sister	(of a boy)
-오빠 = brother (of a girl)
-형 = older brother (of a boy)
-동생 = younger sibling
-남동생 = younger brother]]></description>
 </item>
 </channel>
 </rss>

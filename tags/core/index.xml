@@ -1,9 +1,9 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>All Posts - Notes On Korean</title>
-        <link>https://J51851391H.github.io/posts/</link>
-        <description>All Posts | Notes On Korean</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 12:14:46 -0600</lastBuildDate><atom:link href="https://J51851391H.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <title>core - Tag - Notes On Korean</title>
+        <link>https://J51851391H.github.io/tags/core/</link>
+        <description>core - Tag - Notes On Korean</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 12:14:46 -0600</lastBuildDate><atom:link href="https://J51851391H.github.io/tags/core/" rel="self" type="application/rss+xml" /><item>
     <title>Weekly_reading</title>
     <link>https://J51851391H.github.io/posts/weekly_reading/</link>
     <pubDate>Mon, 12 Dec 2022 12:14:46 -0600</pubDate>
@@ -42,33 +42,6 @@
 닫다 = to close
 울다 = to cry
 웃다 = to laugh]]></description>
-</item>
-<item>
-    <title>Time</title>
-    <link>https://J51851391H.github.io/posts/time/</link>
-    <pubDate>Sun, 11 Dec 2022 09:31:38 -0600</pubDate>
-    <author>false</author>
-    <guid>https://J51851391H.github.io/posts/time/</guid>
-    <description><![CDATA[시간 = time
-분 = minutes
-시 = hour
-하루 = day
-주 = week
-평일 = weekend
-주말 = weekend
-달 or 월 = month
-오늘 = today
-내일 = tomorrow
-어제 = yesterday
-아까 = earlier, right before
-일찍 = early
-지금 = now
-방금 = Just now
-곧 = soon
-나중 = later
-매일 = everyday
-여름 방학 = summer Vacation (for students)
-휴가 = vacation (for workers)]]></description>
 </item>
 <item>
     <title>Animals</title>
@@ -260,6 +233,31 @@ Utencils 포크 = Fork
 칼 = Knife
 숟가락 = Spoon
 젓가락 = Chopsticks]]></description>
+</item>
+<item>
+    <title>People</title>
+    <link>https://J51851391H.github.io/posts/people/</link>
+    <pubDate>Fri, 09 Dec 2022 09:19:11 -0600</pubDate>
+    <author>false</author>
+    <guid>https://J51851391H.github.io/posts/people/</guid>
+    <description><![CDATA[어른 =adult
+아가 = baby
+아이들 = children
+남자 = man
+여자 = woman	소년 = boy
+소녀 = girl
+가족 = family
+부모님 = parents
+엄마 = mother
+아버지 = father
+딸 = daughter
+아들 = son
+언니 = older sister (of a girl)
+누나 = older sister	(of a boy)
+오빠 = brother (of a girl)
+형 = older brother (of a boy)
+동생 = younger sibling
+남동생 = younger brother]]></description>
 </item>
 </channel>
 </rss>
