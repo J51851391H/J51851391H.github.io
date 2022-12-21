@@ -3,22 +3,24 @@
         <title>Notes On Korean</title>
         <link>https://J51851391H.github.io/</link>
         <description>This is my cool site</description>
-        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Mon, 12 Dec 2022 12:14:46 -0600</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 13 Dec 2022 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://J51851391H.github.io/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>Weekly_reading</title>
-    <link>https://J51851391H.github.io/posts/weekly_reading/</link>
-    <pubDate>Mon, 12 Dec 2022 12:14:46 -0600</pubDate>
+    <title>Weekly Review</title>
+    <link>https://J51851391H.github.io/posts/weekly_review/</link>
+    <pubDate>Tue, 13 Dec 2022 00:00:00 &#43;0000</pubDate>
     <author>false</author>
-    <guid>https://J51851391H.github.io/posts/weekly_reading/</guid>
-    <description><![CDATA[저는 오늘 책 하고 컴퓨터 샀어요.
-린스 필요해요, 하지만 가게에 없어요.
+    <guid>https://J51851391H.github.io/posts/weekly_review/</guid>
+    <description><![CDATA[Sentence Builders &ndash;해야 돼요 = I have to do.
+&ndash;하는거 좋아해요 = I like to do.
+&ndash;가는거 좋아해요 = I like to go to.
+Reading 저는 오늘 책 하고 컴퓨터 샀어요. 지금 나는 제새 책 읽고있어요.
+우리는 샴푸랑 린스를 필요했어요. 하지만, 슈퍼마켓에 없었어요. 그래서, 나는 편의점에 갔어요.
 지난 토요일에, 저는 미용실에 갔어요.
-한국 식당에 하는거 좋아해요.
+한국 식당에 가는거 좋아해요.
 우리는 새소파 필요해요.
 저는 열쇠랑 학교에 갔어요. 그리고 의자에 앉았어요.
-편의점에서 비누를 사고 싶어요.
-편의점에서 비누를 사고 싶어요. 하지만, 돈을 하나도 없어요. 그래서, 나는 은행 갈거에요.]]></description>
+편의점에서 비누를 사고 싶어요. 하지만, 돈을 하나도 없어요.]]></description>
 </item>
 <item>
     <title>Common_verbs</title>
@@ -144,12 +146,10 @@
 흐려요 = cloudy
 바람 불어요 = rainy
 추워요 = cold
-Seasons 봄 = spring
-여름 = summer
-가을 = fall
-겨울 = winter
 Small Talk 비가 와요 = it&rsquo;s raining
-눈이 와요 = it&rsquo;s snowing]]></description>
+눈이 와요 = it&rsquo;s snowing
+하늘이 맑습니다 = the sky is clear
+날씨가 나빠요 = the weather is bad]]></description>
 </item>
 <item>
     <title>At_home</title>
@@ -160,7 +160,8 @@ Small Talk 비가 와요 = it&rsquo;s raining
     <description><![CDATA[자동차 = automobile
 침대 = bed
 자전거 = bicylce
-담요 = blanket
+담요 = blanket (multipurpose)
+이불 = duvet (large blanket used for sleeping)
 책 = book
 상자 = box
 의자 = chair
@@ -175,10 +176,7 @@ Small Talk 비가 와요 = it&rsquo;s raining
 집안일 = house chores
 열쇠 = key
 노트북 컴퓨터 = laptop
-불 = light (from a lamp)
-배게 = pillow
-식물 = plant
-냉장고 = refrigerator]]></description>
+불 = light (from a lamp)]]></description>
 </item>
 <item>
     <title>Body</title>
@@ -249,19 +247,19 @@ Small Talk 비가 와요 = it&rsquo;s raining
 빵 = bread
 해산물 = seafood
 생선 = fish
-두부 = Tofu
-계란 = Eggs
-치즈 = Cheese
-반찬 = Side dishes
-Meals 아침 식사 = Breakfast
-점심 식사 = Lunch
-간식 = Snack
-저녁 식사 = Dinner
-후식 = Dessert
-Utencils 포크 = Fork
-칼 = Knife
-숟가락 = Spoon
-젓가락 = Chopsticks]]></description>
+두부 = tofu
+계란 = eggs
+치즈 = cheese
+반찬 = side dishes
+Meals 아침 식사 = breakfast
+점심 식사 = lunch
+간식 = snack
+저녁 식사 = dinner
+후식 = dessert
+Utencils 포크 = fork
+칼 = knife
+숟가락 = spoon
+젓가락 = chopsticks]]></description>
 </item>
 </channel>
 </rss>

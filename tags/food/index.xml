@@ -17,19 +17,19 @@
 빵 = bread
 해산물 = seafood
 생선 = fish
-두부 = Tofu
-계란 = Eggs
-치즈 = Cheese
-반찬 = Side dishes
-Meals 아침 식사 = Breakfast
-점심 식사 = Lunch
-간식 = Snack
-저녁 식사 = Dinner
-후식 = Dessert
-Utencils 포크 = Fork
-칼 = Knife
-숟가락 = Spoon
-젓가락 = Chopsticks]]></description>
+두부 = tofu
+계란 = eggs
+치즈 = cheese
+반찬 = side dishes
+Meals 아침 식사 = breakfast
+점심 식사 = lunch
+간식 = snack
+저녁 식사 = dinner
+후식 = dessert
+Utencils 포크 = fork
+칼 = knife
+숟가락 = spoon
+젓가락 = chopsticks]]></description>
 </item>
 <item>
     <title>음료 vs. 음료수</title>
